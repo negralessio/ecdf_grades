@@ -10,4 +10,4 @@ Then run the notebook and simply copy all the pdf content via CTRL+A and CTRL+C 
 ___
 ### Examples 
 
-![](assets/figure_infeng.png)
+![](assets/different_majors.png)
