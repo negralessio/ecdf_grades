@@ -1,6 +1,6 @@
 # How to install
 Go within your shell / terminal to an empty folder and type in the following command:
-```console
+```shell
 git clone https://github.com/negralessio/ecdf_grades
 ```
 Create virtual environment, activate it and download dependencies with ...
