@@ -6,15 +6,15 @@ git clone https://github.com/negralessio/ecdf_grades
 Create virtual environment and activate it:
 ```shell
 conda create -n kit_ecdf_env python==3.9
+```
+```shell
 conda activate kit_ecdf_env
 ```
-And finally install all dependencies with:
+Move to the cloned repository and finally install all dependencies with:
 ```shell
-conda install pip
 pip install -r requirements.txt
 ```
-
-Then run jupyter notebook inside the directory with the following command and run all cells
+Then run jupyter notebook inside the repo with the following command and run all cells
 ```shell
 jupyter-notebook
 ````
