@@ -3,11 +3,15 @@ Go within your shell / terminal to an empty folder and type in the following com
 ```shell
 git clone https://github.com/negralessio/ecdf_grades
 ```
-Create virtual environment, activate it and download dependencies with ...
+Create virtual environment and activate it:
 ```shell
 conda create -n kit_ecdf_env python==3.9
 conda activate kit_ecdf_env
-conda install --file requirements.txt
+```
+And finally install all dependencies with:
+```shell
+conda install pip
+pip install -r requirements.txt
 ```
 
 Then run jupyter notebook inside the directory with the following command and run all cells
