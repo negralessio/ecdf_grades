@@ -24,6 +24,7 @@ and select the document of your interest.
 Then run the notebook and simply copy all the pdf content via CTRL+A and CTRL+C into the prompt field. 
 You can add as many documents you want -- if you want to continue just press enter on the prompt field (i.e. enter nothing).
 
+Tested on Firefox.
 
 ___
 ### Examples 
