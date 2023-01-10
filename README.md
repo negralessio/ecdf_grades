@@ -27,6 +27,6 @@ You can add as many documents you want -- if you want to continue just press ent
 Tested on Firefox.
 
 ___
-### Examples 
+# Examples 
 
 ![](figures/different_majors.png)
