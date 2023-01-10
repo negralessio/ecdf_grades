@@ -6,8 +6,6 @@ git clone https://github.com/negralessio/ecdf_grades
 Create virtual environment and activate it:
 ```shell
 conda create -n kit_ecdf_env python==3.9
-```
-```shell
 conda activate kit_ecdf_env
 ```
 Move to the cloned repository and finally install all dependencies with:
