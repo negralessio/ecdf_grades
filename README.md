@@ -1,3 +1,6 @@
+# Example
+![](figures/different_majors.png)
+
 # How to install
 Go within your shell / terminal to an empty folder and type in the following command:
 ```shell
@@ -6,8 +9,6 @@ git clone https://github.com/negralessio/ecdf_grades
 Create virtual environment and activate it:
 ```shell
 conda create -n kit_ecdf_env python==3.9
-```
-```shell
 conda activate kit_ecdf_env
 ```
 Move to the cloned repository and finally install all dependencies with:
@@ -26,7 +27,3 @@ You can add as many documents you want -- if you want to continue just press ent
 
 Tested on Firefox.
 
-___
-# Examples 
-
-![](figures/different_majors.png)
